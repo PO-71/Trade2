@@ -1,0 +1,8 @@
+.qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
+Trade2.pro.user
+trade2_plugin_import.cpp
+debug/
+release/
